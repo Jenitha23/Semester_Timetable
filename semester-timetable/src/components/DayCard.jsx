@@ -73,4 +73,5 @@ const DayCard = ({ day, date, classes }) => {
     );
 };
 
+
 export default DayCard;

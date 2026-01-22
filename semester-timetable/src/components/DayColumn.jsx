@@ -63,4 +63,5 @@ const DayColumn = ({ day, date, classes }) => {
     );
 };
 
+
 export default DayColumn;
